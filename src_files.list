@@ -1,0 +1,15 @@
+fifo.sv
+fifo_if.sv
+fifo_config.sv
+fifo_seq_item.sv
+fifo_sequence.sv
+fifo_sequencer.sv
+fifo_driver.sv
+fifo_monitor.sv
+fifo_agent.sv
+fifo_scoreboard.sv
+fifo_coverage.sv
+fifo_env.sv
+fifo_test.sv
+assertions.sv
+top.sv
