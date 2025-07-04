@@ -25,4 +25,4 @@ A UVM-based verification project for a synchronous FIFO design using assertions,
 ## Authors
 - Verification: Kiereia Ayman
 
-- RTL Design: Eng. Karim Wassim
+- RTL Design: Eng. Kareem Waseem
